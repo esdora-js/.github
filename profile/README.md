@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://esdora.js.org"><strong>官方文档</strong></a> ·
   <a href="https://github.com/esdora-js/esdora/blob/main/CONTRIBUTING.md"><strong>贡献指南</strong></a> ·
-  <a href="https://github.com/esdora-js/esdora/blob/main/CHANGELOG.md"><strong>更新日志</strong></a>
+  <a href="https://github.com/esdora-js/esdora/releases"><strong>更新日志</strong></a>
 </p>
 
 ---
@@ -38,18 +38,14 @@
 ## ✨ 我们的核心“道具”
 
 以下是我们目前最主要的项目。我们建议通过固定的仓库来高亮它们，以便快速访问。
-****
-> **提示:** 请在组织设置中“固定 (Pin)”以下仓库，使其在首页顶部突出显示。
 
--   **[esdora](https://github.com/esdora-js/esdora):** 主仓库。一个 Monorepo，包含了 Dora Pocket 生态系统的所有包和文档。这是你开始探索的最佳起点！
--   **[.github](https://github.com/esdora-js/.github):** 组织的元信息和社区健康文件所在地。
 
 ## 🛠️ 所有可用的工具包
 
 | 包 (Package)          | NPM 版本                                                                                                      | 描述                                           |
 | --------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| [`esdora`](#)         | [![npm](https://img.shields.io/npm/v/esdora?color=a1b858&label=)](https://npmjs.com/package/esdora)           | 包含所有功能的元包，提供最便捷的“全家桶”体验。 |
-| [`@esdora/kit`](#)    | [![npm](https://img.shields.io/npm/v/@esdora/kit?color=a1b858&label=)](https://npmjs.com/package/@esdora/kit) | 零依赖的核心工具函数库，轻量、稳定、可靠。     |
+| [`esdora`](https://www.npmjs.com/package/esdora)         | [![npm](https://img.shields.io/npm/v/esdora?color=a1b858&label=)](https://npmjs.com/package/esdora)           | 包含所有功能的元包，提供最便捷的“全家桶”体验。 |
+| [`@esdora/kit`](https://www.npmjs.com/package/@esdora/kit)    | [![npm](https://img.shields.io/npm/v/@esdora/kit?color=a1b858&label=)](https://npmjs.com/package/@esdora/kit) | 零依赖的核心工具函数库，轻量、稳定、可靠。     |
 | _更多道具正在路上..._ | -                                                                                                             | _我们正在积极开发更多实用的工具包！_           |
 
 ## 💖 参与贡献
